@@ -2,7 +2,7 @@
 
 A practical graduation project focusing on deploying and securing infrastructure across Microsoft Azure and Amazon Web Services (AWS).
 
-[Screenshots doc]
+[Screenshots document](https://github.com/Avgvstjne/Multi-Cloud_Deployment_and_Security_Hardening_Lab/blob/main/docs/Screenshots_CNA-Multi-Cloud%20Deployment-and-Hardening-Lab.pdf)
 
 ### 📌 Project Overview   
 This project demonstrates the ability to architect, deploy, and secure cloud environments. It includes virtual network configuration, virtual machine hardening, honeypot deployment, and centralized logging.
